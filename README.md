@@ -26,7 +26,7 @@ git clone https://github.com/lukeiayf/spring-boot-clean-arch-app
 ```
 java -jar ./target/spring-boot-cleanarch-0.0.1-SNAPSHOT.jar
 ```
-- Test ( with [httppie](https://httpie.io) ):
+- Test ( with [httppie](https://httpie.io) or Postman):
 ```
 http POST :8080/users username=username password=password email=email
 ```
