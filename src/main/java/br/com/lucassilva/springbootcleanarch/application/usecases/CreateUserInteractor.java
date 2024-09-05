@@ -1,7 +1,7 @@
-package br.com.giulianabezerra.springbootcleanarch.application.usecases;
+package br.com.lucassilva.springbootcleanarch.application.usecases;
 
-import br.com.giulianabezerra.springbootcleanarch.application.gateways.UserGateway;
-import br.com.giulianabezerra.springbootcleanarch.domain.entity.User;
+import br.com.lucassilva.springbootcleanarch.application.gateways.UserGateway;
+import br.com.lucassilva.springbootcleanarch.domain.entity.User;
 
 public class CreateUserInteractor {
     private UserGateway userGateway;

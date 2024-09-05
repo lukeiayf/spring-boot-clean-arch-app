@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.springbootcleanarch.infrastucture.persistence;
+package br.com.lucassilva.springbootcleanarch.infrastucture.persistence;
 
 import org.springframework.data.annotation.Id;
 

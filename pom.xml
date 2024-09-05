@@ -8,11 +8,11 @@
 		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.giulianabezerra</groupId>
+	<groupId>br.com.lucassilva</groupId>
 	<artifactId>spring-boot-cleanarch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-cleanarch</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Boot clean architecture project</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

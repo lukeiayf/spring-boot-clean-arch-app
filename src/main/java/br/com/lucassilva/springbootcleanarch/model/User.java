@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.springbootcleanarch.model;
+package br.com.lucassilva.springbootcleanarch.model;
 
 import org.springframework.data.annotation.Id;
 

@@ -1,12 +1,12 @@
-package br.com.giulianabezerra.springbootcleanarch.controller;
+package br.com.lucassilva.springbootcleanarch.controller;
 
+import br.com.lucassilva.springbootcleanarch.service.UserService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.giulianabezerra.springbootcleanarch.model.User;
-import br.com.giulianabezerra.springbootcleanarch.service.UserService;
+import br.com.lucassilva.springbootcleanarch.model.User;
 
 @RestController
 @RequestMapping("users")

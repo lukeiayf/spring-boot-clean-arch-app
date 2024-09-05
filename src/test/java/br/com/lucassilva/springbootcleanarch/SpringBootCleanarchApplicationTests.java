@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.springbootcleanarch;
+package br.com.lucassilva.springbootcleanarch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
